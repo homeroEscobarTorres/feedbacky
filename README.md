@@ -4,7 +4,7 @@ FeedBacky is a MERN full-stack web application that allows users to send mass em
 
 <strong>FeedBacky live link:</strong> https://feedbacky-app-01.herokuapp.com/
 
-![feedbacky-home](https://user-images.githubusercontent.com/81558998/115994346-e3e5ba80-a5d6-11eb-9ac1-6ba56efdf4fb.png)
+![feedbacky-home](https://user-images.githubusercontent.com/81558998/115994655-31165c00-a5d8-11eb-8bf8-97c8bbeb7a4a.png)
 
 
 ## Technologies and Frameworks Used
